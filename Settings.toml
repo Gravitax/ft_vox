@@ -1,0 +1,21 @@
+window_height = 720
+window_width = 1280
+
+fov = 80.0
+gamma = 1.5
+far_plane = 160.0
+near_plane = 0.1
+player_speed = 1.0
+mouse_sensitivity = 8.0
+player_light_intensity = 12.0
+sunlight_intensity = 100.0
+
+exit = escape
+move_cam_up = r
+move_cam_down = f
+move_cam_left = a
+move_cam_right = d
+move_cam_forward = w
+move_cam_backward = s
+toggle_light = q
+toggle_shadow = e
