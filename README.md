@@ -1,7 +1,8 @@
 <h1> ft_vox </h1>
 
-![alt text](<Screenshot from 2024-07-31 15-25-44.png>)
-![alt text](<Screenshot from 2024-07-31 15-25-57.png>)
+![alt text](<resources/screenshots/Screenshot from 2024-07-31 15-25-44.png>)
+![alt text](<resources/screenshots/Screenshot from 2024-07-31 15-25-57.png>)
+![alt text](<resources/screenshots/Screenshot from 2024-07-31 15-32-30.png>)
 
 <h2> Key Bindings </h2>
 <p> Key bindings are adjustable in Settings.toml, with the following keys and values :
@@ -15,9 +16,25 @@
 	<li>move_cam_down</li>
 	<li>move_cam_left</li>
 	<li>move_cam_right</li>
+	<li>toggle_light</li>
+	<li>toggle_shadow</li>
 </ul>
 
-<h4> Keys </h4>
+<h4> Options </h4>
+<ul>
+	<li>window_height = 720</li>
+	<li>window_width = 1280</li>
+	<li>fov = 80.0</li>
+	<li>gamma = 1.5</li>
+	<li>far_plane = 160.0</li>
+	<li>near_plane = 0.1</li>
+	<li>player_speed = 1.0</li>
+	<li>mouse_sensitivity = 8.0</li>
+	<li>player_light_intensity = 12.0</li>
+	<li>sunlight_intensity = 100.0</li>
+</ul>
+
+<h4> Usable Keys </h4>
 <ul>
 	<li>0-9</li>
 	<li>a-z</li>
