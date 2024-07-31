@@ -1,5 +1,8 @@
 <h1> ft_vox </h1>
 
+![alt text](<Screenshot from 2024-07-31 15-25-44.png>)
+![alt text](<Screenshot from 2024-07-31 15-25-57.png>)
+
 <h2> Key Bindings </h2>
 <p> Key bindings are adjustable in Settings.toml, with the following keys and values :
 
